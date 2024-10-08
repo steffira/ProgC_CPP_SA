@@ -1,0 +1,8 @@
+O tamanho de char: 1 bytes
+O tamanho de short: 2 bytes
+O tamanho de int: 4 bytes
+O tamanho de long: 4 bytes
+O tamanho de long long: 8 bytes
+O tamanho de float: 4 bytes
+O tamanho de double: 8 bytes
+O tamanho de long double: 16 bytes
